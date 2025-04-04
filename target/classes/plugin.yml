@@ -1,0 +1,8 @@
+name: ExplosionBreakReloaded
+version: '0.0.1'
+main: org.example.plugin.explosionBreakReloaded.ExplosionBreakReloaded
+api-version: '1.21'
+commands:
+  EnableBR:
+    description: Enable ExplosionBreakReloaded
+
